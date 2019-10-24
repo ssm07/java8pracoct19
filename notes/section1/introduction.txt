@@ -1,0 +1,12 @@
+**** JAVA 8 new features ***
+
+1) Lambda expression
+2) Functional interface
+3)Default method in interfaces
+4) static method in interfaces
+5)Predicate  (pre defined functional interface)
+6)Function  ( --)
+7)Consumer ( -- )
+8) Method Reference and Constructor Reference  by double colon operator (::)
+9)Stream API
+10) Date and Time API
