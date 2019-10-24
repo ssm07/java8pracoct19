@@ -1,0 +1,25 @@
+Lambda Expression is anonymous function which  does not have any modifiers  and return type.
+
+ Lets convert few java method to equivalent lambda expression
+
+
+ public void  hello()
+ {
+   System.out.println(" Hello");                  =  () -> { System.out.println("")}
+ }
+
+
+
+ public double getInterestRate ()
+ {
+  return 3.5;                                  =   () -> {  return 3.5}
+
+ }
+
+ 
+
+ public  int add (int a ,int b)
+ {
+   return a +b;                              = (int a, int b) -> { return a+b}
+
+ }
